@@ -15,8 +15,8 @@ I started out doing technical support and working in retail — fixing issues, h
 
 - 🔧 Technical support background — PC assembly, repair and structured cabling
 - 🌐 Network configuration and Azure administration (VMs, AD, roles)
-- 🛠️ Fullstack projects with React, Next.js and Node.js since 2021
-- 📖 Currently focused on: **Node.js · Angular · SQL Server 2022**
+- 🛠️ Fullstack projects with React, Next.js and Node.js since 2024
+- 📖 Currently focused on: **Node.js · Angular · SQL Server 2025**
 
 ---
 
